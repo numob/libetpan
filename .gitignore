@@ -12,6 +12,9 @@
 *.ncb
 *.user
 
+# SPM
+.build
+
 project.xcworkspace/
 xcuserdata/
 
